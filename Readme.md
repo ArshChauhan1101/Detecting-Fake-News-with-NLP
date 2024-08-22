@@ -1,4 +1,4 @@
-### README.md for Fake News Detection Project
+### Fake News Detection Project
 
 ## Project Overview
 This project aims to detect fake news using **Natural Language Processing (NLP)** techniques. By analyzing text data, the system can classify news articles as either real or fake, helping to combat the spread of misinformation.
